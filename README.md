@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/adamazl/adamblogger">
-    <img src="" alt="Logo" width="150" height="150">
+    <img src="Assets/logo_light.png" alt="Logo" width="600" height="300">
   </a>
 
 <h3 align="center">AdamBlogger</h3>
 
   <p align="center">
-    Blogging Application
+    NextJS & MongoDB Blog App
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://imgur.com/OGEvEf6)
+<img src="Documentation/website_image.png" width="800" height="400">
 
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
