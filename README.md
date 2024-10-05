@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Assets/logo_light.png" alt="Logo" width="150" height="150">
+    <img src="" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">AdamBlogger</h3>
 
   <p align="center">
-    project_description
+    Blogging Application
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
