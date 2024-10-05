@@ -1,11 +1,11 @@
-import BlogItem from "@/Components/BlogItem";
+import BlogList from "@/Components/BlogList.jsx";
 import Header from "@/Components/Header.jsx";
 
 export default function Home() {
   return (
     <>
     <Header></Header>
-    <BlogItem></BlogItem>
+    <BlogList></BlogList>
     </>
   );
 }
