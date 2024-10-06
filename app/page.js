@@ -1,4 +1,6 @@
+'use client'
 import BlogList from "@/Components/BlogList.jsx";
+import Footer from "@/Components/Footer.jsx";
 import Header from "@/Components/Header.jsx";
 
 export default function Home() {
@@ -6,6 +8,7 @@ export default function Home() {
     <>
     <Header></Header>
     <BlogList></BlogList>
+    <Footer></Footer>
     </>
   );
 }
