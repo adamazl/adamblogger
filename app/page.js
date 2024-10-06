@@ -9,6 +9,7 @@ export default function Home() {
     <Header></Header>
     <BlogList></BlogList>
     <Footer></Footer>
+    
     </>
   );
 }
